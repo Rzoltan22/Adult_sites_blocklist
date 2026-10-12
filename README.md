@@ -1,2 +1,0 @@
-# Adult_sites_blocklist
-Adult_sites_blocklist
